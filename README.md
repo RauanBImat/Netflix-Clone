@@ -10,7 +10,6 @@
 
 
 
-**Mini Demo Project**
 
 ## Screenshots
 Home Page | down the main page
